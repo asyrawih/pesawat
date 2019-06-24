@@ -6,9 +6,9 @@
 * MYSQL
 
 ### Use
-* Upload all file extension `.php` in directory root web
-* Import mysql
-* Edit conection in file `koneksi.php`
-* Enjoy
+* Upload Semua Data Dalam Folder ke webserver 
+* import mysql nya Di php my admin 
+* Setting ENV / Informasi Database  `koneksi.php`
+* Selamat Menikmata ^_^
 
 "# pesawat" 
